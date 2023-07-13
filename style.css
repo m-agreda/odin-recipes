@@ -1,0 +1,14 @@
+/* Intended for the home page */
+
+a:visited {
+    font-weight: bold;
+    color: #800080;
+}
+
+a:hover {
+    color: #dda0dd;
+}
+
+.center {
+    text-align: center;
+}
