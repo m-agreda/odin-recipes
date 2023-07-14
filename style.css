@@ -17,6 +17,11 @@ a:hover {
     text-align: center;
 }
 
+.pad {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
 img {
     display: block;
     margin-left: auto;
